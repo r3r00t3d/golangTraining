@@ -1,0 +1,1 @@
+Testing playgoround for Golang
